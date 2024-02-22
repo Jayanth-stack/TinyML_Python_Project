@@ -1,4 +1,4 @@
-# TinyML-Python-
+# Using TinyML Concepts to Alert Cyclist/Motorcyclist about Potential Road Hazard 
 
 This project demonstrates a tinyML application for detecting the presence of a person using a machine learning model deployed on the Arduino Nano 33 BLE Sense. The project leverages the onboard sensors of the Nano 33 BLE Sense to collect data, which is then processed by a pre-trained machine learning model to perform person detection in real-time.
 Project Overview
